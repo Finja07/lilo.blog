@@ -5,15 +5,13 @@ draft = false
 pinned = false
 image = "gefangnis.png"
 +++
-###### Soll man Jugendstraftäter*innen härter bestrafen? Jugendanwalt Ronald Lips und die 
-Praktikantin Jessica Dolder vom Regionalgefängnis Thun sind dagegen.
+#### Soll man Jugendstraftäter*innen härter bestrafen? Jugendanwalt Ronald Lips und die Praktikantin Jessica Dolder vom Regionalgefängnis Thun sind dagegen.
 
 Mehr Möglichkeiten für Massnahmen oder bessere Prävention. 
 Um mehr über die Massnahmen und Strafen der Jugendstraftäter*innen zu lernen, besuchten wir 
 den Jugendanwalt Ronald Lips und die Praktikantin, Jessica Dolder, aus dem Regionalgefängnis Thun. 
 Herr Lips trafen wir in der Jugendanwaltschaft Bern, in einem Verhörraum. Jessica Dolder führte uns 
 durch das Regionalgefängnis Thun.
-
 
 Oft entstehen Jugendstraftaten, ohne dass die Jugendlichen wirklich nachdenken oder aus unkontrollierten Emotionen. Deshalb ist ein gutes schulisches, familiäres und kollegiales Umfeld wichtig für die Jugendlichen, damit sie keine Straftat begehen. Wer allerdings trotzdem etwas stiehlt, einen Straßenverkehrs Delikt begeht oder Drogen konsumiert und erwischt wird, wird von der Polizei angezeigt. Wenn eine jugendliche Person verdächtigt wird, eine Straftat begangen zu haben, nimmt die Polizei die Ermittlung auf. Sie klärt ab, was geschehen ist und gibt den Fall daraufhin an die Jugendanwaltschaft. Die Jugendanwältin oder der Jugendanwalt klärt anschliessend den Sachverhalt weiter ab und führt Einvernahmen mit den beteiligten Personen durch. In den Jugendanwaltschaften arbeiten Jugendanwälte und Sozialarbeiter immer eng miteinander. Während die Jugendanwältin bzw. der Jugendanwalt die Strafuntersuchung leitet, befasst sich die oder der Sozialarbeitende 
 mehr mit den persönlichen Verhältnissen des Jugendlichen. Dafür führt sie oder er Gespräche mit der 
@@ -32,8 +30,7 @@ Herr Lips. Folgende Strafen können je nach Straftat verhängt werden: Freiheits
 «Der Verweis», sagte uns Herr Lips, «sei nicht für viel». Massnahmen sollten den Jugendlichen schützen. Diese können stationär oder ambulant sein. Stationäre Massnahmen können eine neue Familie oder ein Aufenthalt in einem Heim sein. Zudem wird bei einem Heim zwischen geschlossen und offen unterschieden. Ambulante Massnahmen sind Therapien oder pädagogische Massnahmen. Man nimmt die Jugendlichen also nur im Extremfall aus den Familien und gibt sie in ein Heim. Im Regionalgefängnis Thun gibt es eine Jugendabteilung mit 10 Plätzen. 8 von 10 Plätzen sind momentan belegt. In der Jugendabteilung roch es nach Zigaretten und gekochtem Essen. Die Jugendlichen essen normalerweise mit den Betreuern zusammen an einem Tisch. Pro Tag können sie eine Stunde auf dem Dach spazieren gehen. Eine weitere Stunde können sie aus ihren Zellen und in eine andere Zelle, in den Gemeinschaftsraum oder in den Fitnessraum gehen. In diesem Gemeinschaftsraum können sie malen oder gamen. Es hat auch einen Computer, auf dem sie Bewerbungen schreiben können. Wenn man ins Gefängnis kommt, realisiert man dies erst nach 3 Tagen – dies nennt sich 
 den Haftschock. «Die Straftäter, die ins Gefängnis kommen, haben sonst schon eine schlechte Psyche. Allerdings haben wir hier keinen Psychiater. Man fällt in ein Tief. Dies kann sich manchmal wieder einpendeln, manchmal bleibt es auch so», sagte die Praktikantin aus dem Gefängnis.
 
-######  „Die Erfahrungen in meiner Jugend haben etwas in mir getötet.“ Christoph Weissgerber
-
+#### „Die Erfahrungen in meiner Jugend haben etwas in mir getötet.“ Christoph Weissgerber
 
 Im Jugendalter wird man sehr von seinem Umfeld beeinflusst. Das familiäre, schulische oder berufliche Umfeld ist dabei entscheidend. Elterliche Unterstützung und Zuwendung ist notwendig für ein 
 gesundes und gutes Erwachsen werden. Ein Risikofaktor sind auch soziale Notsituationen wie beengte Wohnverhältnisse oder dauerhafte Arbeitslosigkeit der Eltern. Dabei bekommt das Kind nicht 
@@ -50,8 +47,7 @@ Sie wollen Markenklamotten, wie ihr Vorbild. Wie können sie diese bekommen, wen
 ist? “ teilt sie uns mit. Drogenkonsum kann auch ein Statussymbol sein unter Jugendlichen, welches 
 veranlasst, dass sie auch anfangen Drogen zu konsumieren. 
 
-###### Massnahmen und Möglichkeiten 
-
+#### Massnahmen und Möglichkeiten
 
 Der Jugendanwalt und die Praktikantin aus dem Gefängnis sagten beide, dass Jugendliche nicht härter bestraft werden sollten. „Ich bin mit dem Jugendgesetz zufrieden,“ meint Herr Lips, „Härtere 
 Strafen schrecken nicht ab.“ Gewalttaten entstehen durch Emotionen. Diese Emotionen entwickeln 
